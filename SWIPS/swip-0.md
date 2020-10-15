@@ -15,9 +15,6 @@ SWIP stands for SWAG Improvement Proposal, it has been adapted from the SIP (Syn
 ## SWIP Rationale
 
 We intend SWIPs to be the primary mechanisms for proposing new features, collecting community input on an issue, and for documenting the design decisions for changes to SWAG. Because they are maintained as text files in a versioned repository, their revision history is the historical record of the feature proposal.
-It is highly recommended that a single SWIP contain a single key proposal or new idea. The more focused the SWIP, the more successful it is likely to be.
-An SWIP must meet certain minimum criteria. It must be a clear and complete description of the proposed enhancement. The enhancement must represent a net improvement.
-
 
 It is highly recommended that a single SWIP contain a single key proposal or new idea. The more focused the SWIP, the more successful it is likely to be.
 
@@ -25,11 +22,11 @@ An SWIP must meet certain minimum criteria. It must be a clear and complete desc
 
 ## SWIP Work Flow
 
-Parties involved in the process are the *author*, the [*SWIP editors*](#swip-editors), and the SWAG DAO community.
+Parties involved in the process are the author, the SWIP editors, and the SWAG community.
 
-:warning: Before you begin, vet your idea, this will save you time. Ask the SWAG DAO community first if an idea is original to avoid wasting time on something that will be rejected based on prior research (searching the Internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will have the intend effect. The appropriate public forum to gauge interest around your SWIP is [the unofficial SWAG.Finance Discord] or [the unofficial SWAG.Finance Telegram].
+:warning: Before you begin, vet your idea, this will save you time. Ask the SWAG community first if an idea is original to avoid wasting time on something that will be rejected based on prior research (searching the Internet does not always do the trick). It also helps to make sure the idea is applicable to the entire community and not just the author. Just because an idea sounds good to the author does not mean it will have the intend effect. The appropriate public forum to gauge interest around your SWIP is the unofficial SWAG Discord or the unofficial SWAG Telegram.
 
-Your role as the champion is to write the SWIP using the style and format described below, shepherd the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful SWIP will move along:
+Your role as the champion is to write the SWIP using the style and format described below, guide the discussions in the appropriate forums, and build community consensus around the idea. Following is the process that a successful SWIP will move along:
 
 ```
 Proposed -> Approved -> Implemented
@@ -43,8 +40,8 @@ Deferred
 
 Each status change is requested by the SWIP author and reviewed by the SWIP editors. Use a pull request to update the status. Please include a link to where people should continue discussing your SWIP. The SWIP editors will process these requests as per the conditions below.
 
-* **Work in progress (WIP)** -- Once the champion has asked the SWAG DAO community whether an idea has any chance of support, they will write a draft SWIP as a [pull request]. Consider including an implementation if this will aid people in studying the SWIP.
-* **Proposed** If agreeable, SWIP editor will assign the SWIP a number (generally the issue or PR number related to the SWIP) and merge your pull request. The SWIP editor will not unreasonably deny an SWIP. Proposed SWIPs will be discussed on governance calls and in Discord. If there is a reasonable level of consensus around the change on the governance call the change will be moved to approved. If the change is contentious a vote of token holders may be held to resolve the issue or approval may be delayed until consensus is reached.
+* **Draft in progress (DRIP)** -- Once the champion has asked the SWAG community whether an idea has any chance of support, they will write a draft SWIP as a pull request. Consider including an implementation if this will aid people in studying the SWIP.
+* **Proposed** If agreeable, SWIP editor will assign the SWIP a number (generally the issue or proposal number related to the SWIP) and merge your pull request. The SWIP editor will not unreasonably deny an SWIP. Proposed SWIPs will be discussed on governance calls and in Discord. If there is a reasonable level of consensus around the change on the governance call the change will be moved to approved. If the change is contentious a vote among token holders may be held to resolve the issue or approval may be delayed until consensus is reached.
 * **Approved** -- This SWIP has passed community governance and is now being prioritised for development.
 * **Implemented** -- This SWIP has been implemented and deployed to mainnet.
 * **Rejected** -- This SWIP has failed to reach community consensus.
@@ -63,7 +60,7 @@ Each SWIP should have the following parts:
 - Specification - The technical specification should describe the syntax and semantics of any new feature.
 - Rationale - The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages. The rationale may also provide evidence of consensus within the community, and should discuss important objections or concerns raised during discussion.
 - Test Cases - Test cases may be added during the implementation phase but are required before implementation.
-- Copyright Waiver - All SWIPs must be in the public domain. See the bottom of this SWIP for an example copyright waiver.
+- Copyright Waiver - All SWIPs must be in the public domain. See the bottom of this SWIPs for an example copyright waiver.
 
 ## SWIP Formats and Templates
 
@@ -82,7 +79,7 @@ Each SWIP must begin with an [RFC 822](https://www.ietf.org/rfc/rfc822.txt) styl
 
 ` * discussions-to:` \<a url pointing to the official discussion thread at gov.swag.finance\>
 
-` status:` < WIP | PROPOSED | APPROVED | IMPLEMENTED >
+` status:` < DRIP | PROPOSED | APPROVED | IMPLEMENTED >
 
 ` created:` <date created on>
 
@@ -174,8 +171,8 @@ The SWIP document was derived heavily from the SWIP Synthetix Improvement Propos
 
 ### Bibliography
 
-[the unofficial SWAG.Finance Discord]: https://discord.gg/SmB9dSh
-[the unofficial SWAG.Finance Telegram]: https://t.me/swagfinance
+[SWAG.Finance Discord]: https://discord.gg/SmB9dSh
+[SWAG.Finance Telegram]: https://t.me/swagfinance
 [pull request]: https://github.com/SWAGFinance/SWIPS/pulls
 
 ## Copyright
