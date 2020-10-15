@@ -1,32 +1,24 @@
 ---
 swip: 1
-title: Minting more YFI
-status: Implemented
-author: SWAG.Finance
-discussions-to: https://gov.swag.finance/t/proposal-0-yfi-supply/24
+title: Frequency of squirt
+status: Proposed
+author: SWAG Community
+discussions-to: https://gov.swag.finance/
 created: 2020-10-15
 ---
 
 ## Simple Summary
 
-**FOR**: Allows weekly distribution of YFI. A second proposal will be submitted to decide how much would be printed weekly.
+The current governance ecosystem can be intimidating and passive due to the requirement of high domain knowledge. In order for the SWAG community to be more active and engaged, a good practice we will adopt is to host regular voting sessions called SQUIRTS. By participating in a SQUIRT, governance members will be rewarded for their participation and their efforts. The first proposal will be around the duration and frequency of SQUIRTS.
 
-**AGAINST**: No more YFI tokens will be distributed. Global supply is locked at 30000 YFI permanently.
+## Abstract
+Come to a consensus on the frequency of SQUIRT governance sessions.
 
-*NOTE: This was proposal 0 on-chain.*
-
-## Metadata
-
-| Name                | Value                                      |
-|---------------------|--------------------------------------------|
-| Proposed by         | 0x473afAb58B2C5D4DbC5FAD5D236f6658AD84E83b |
-| Total for votes     | 7734007.4689 (61.02%)                      |
-| Total against votes | 4939315.7347 (38.97%)                      |
-| Quorum              | 62.68% ✔                                   |
-| Start block         | 10490942                                   |
-| End block           | 10508222                                   |
+## Motivation
+We hope to increase interaction with our community and the community members’ participation in the DAO. As SWAG governance token holders participating in the SQUIRTS, you will be rewarded for your time and effort. A strong show of participation will also send the right public signals - SWAG is an active and sustainable community.
+It is therefore important to come to a consensus on how often SQUIRTS should be conducted. If they are held infrequently, governance members might lose interest. If they are held too frequently, there may be proposals which do not bring much value to the community and will also eventually result in loss of interest from governance token holders. 
 
 
+**FOR**: Conduct SQUIRTS on a weekly basis
 
-## Copyright
-Copyright and related rights waived via [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+**AGAINST**: Conduct SQUIRTS on a biweekly basis

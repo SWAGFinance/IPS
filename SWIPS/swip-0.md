@@ -2,7 +2,7 @@
 swip: 0
 title: SWIP Purpose and Guidelines
 status: Implemented
-author: SWAG DAO Community
+author: SWAG Community
 discussions-to: https://gov.swag.finance/
 created: 2020-10-15
 updated: 2020-10-15
