@@ -33,7 +33,7 @@ theme: minima
 plugins:
   - jekyll-seo-tag
 
-permalink: /:slug
+# permalink: /:slug
 
 defaults:
   - scope:

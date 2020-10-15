@@ -1,10 +1,10 @@
 ---
-sip: 1
+swip: 1
 title: Minting more YFI
-status: Proposed
+status: Implemented
 author: SWAG.Finance
 discussions-to: https://gov.swag.finance/t/proposal-0-yfi-supply/24
-created: 2020-07-19
+created: 2020-10-15
 ---
 
 ## Simple Summary
