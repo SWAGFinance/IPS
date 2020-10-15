@@ -129,20 +129,6 @@ SWIPs may have a `requires` header, indicating the SWIP numbers that this SWIP d
 
 SWIPs may include auxiliary files such as diagrams. Such files must be named SWIP-XXXX-Y.ext, where “XXXX” is the SWIP number, “Y” is a serial number (starting at 1), and “ext” is replaced by the actual file extension (e.g. “png”).
 
-## SWIP Editors
-
-The current SWIP editors are:
-
-` * Artem K (@banteg)`
-
-` * Cooper Turley (@Cooopahtroopa)`
-
-` * Daryl Lau (@Daryllautk)`
-
-` * Klim K (@milkyklim)`
-
-` * Sunil Srivatsa (@alphastorm)`
-
 ## SWIP Editor Responsibilities
 
 For each new SWIP that comes in, an editor does the following:
