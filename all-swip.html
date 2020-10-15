@@ -1,0 +1,7 @@
+---
+layout: page
+title: All SWIPs
+---
+
+{% assign swips=site.pages|where_exp:"page","page.swip > -1" %} {% include
+swiptable.html swips=swips %}

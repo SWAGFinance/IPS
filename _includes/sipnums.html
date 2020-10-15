@@ -1,0 +1,4 @@
+{% assign swips=include.swips|split:"," %}
+{% for swipnum in swips %}
+  <a href="{{swipnum|strip|downcase}}">{{swipnum|strip}}</a>{% if forloop.last == false %}, {% endif %}
+{% endfor %}
