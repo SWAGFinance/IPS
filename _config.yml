@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 description: >-
-  SWAG DAO Improvement Proposals (SWIPs) describe standards for the SWAG.Finance
+  SWAG Improvement Proposals (IPs) describe standards for the SWAG.Finance
   platform, including core protocol specifications, client APIs, and contract
   standards.
-url: "https://swips.swag.finance"
-repository: SWAGFinance/SWIPS
+url: "https://ips.swag.finance"
+repository: SWAGFinance/IPS
 twitter_username: swag_finance
 github_username: SWAGFinance
 header_pages:
-  - all-swip.html
+  - all-ip.html
 twitter:
   card: summary
   username: swag_finance
@@ -37,9 +37,9 @@ plugins:
 
 defaults:
   - scope:
-      path: "SWIPS"
+      path: "IPS"
     values:
-      layout: "swip"
+      layout: "ip"
   - scope:
       path: ""
     values:
@@ -53,4 +53,4 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - swip-X.md
+  - ip-X.md

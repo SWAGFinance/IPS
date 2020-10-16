@@ -1,10 +1,11 @@
 ---
-swip: 1
+squirt: 1
 title: Frequency of squirt
 status: Proposed
-author: SWAG Community
-discussions-to: https://gov.swag.finance/
-created: 2020-10-15
+author: SWAG Finance team
+ip: https://ips.swag.finance/IPS/ip-1.html
+discussions: https://gov.swag.finance/t/proposal-ip-1-frequency-of-squirts/32
+created: 2020-10-17
 ---
 
 ## Simple Summary

@@ -1,0 +1,7 @@
+---
+layout: page
+title: All IPs
+---
+
+{% assign ips=site.pages|where_exp:"page","page.squirt > -1" %} {% include
+iptable.html ips=ips %}

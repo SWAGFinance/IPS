@@ -1,0 +1,28 @@
+<style type="text/css">
+  .iptable .title {
+    width: 67%;
+  }
+
+  .iptable .author {
+    width: 33%;
+  }
+</style>
+{% for status in site.data.statuses %}
+  {% assign ips = include.ips|where:"status",status|sort:"siwp" %}
+  {% assign count = ips|size %}
+  {% if count > 0 %}
+    <h2>{{status}}</h2>
+    <table class="iptable">
+      <thead>
+        <tr><th class="ipnum">Number</th><th class="title">Title</th><th class="author">Author</th></tr>
+      </thead>
+      {% for page in ips %}
+        <tr>
+          <td class="ipnum"><a href="{{page.url|relative_url}}">{{page.squirt|xml_escape}}</a></td>
+          <td class="title">{{page.title|xml_escape}}</td>
+          <td class="author">{% include authorlist.html authors=page.author %}</td>
+        </tr>
+      {% endfor %}
+    </table>
+  {% endif %}
+{% endfor %}
