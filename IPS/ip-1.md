@@ -17,6 +17,7 @@ Come to a consensus on the frequency of SQUIRT governance sessions.
 
 ## Motivation
 We hope to increase interaction with our community and the community members’ participation in the DAO. As SWAG governance token holders participating in the SQUIRTS, you will be rewarded for your time and effort. A strong show of participation will also send the right public signals - SWAG is an active and sustainable community.
+
 SQUIRTs are the core of the SWAG governance system. If they are held infrequently, governance members might lose interest. If they are held too frequently, there may be less than adequate time for discussion and debate, and it could be difficult to keep everyone engaged.
 
 
