@@ -1,22 +1,22 @@
 ---
 squirt: 1
-title: Frequency of squirts
+title: How often should SQUIRTs be conducted?
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-1.html
 discussions: https://gov.swag.finance/t/proposal-ip-1-frequency-of-squirts/32
 created: 2020-10-17
 ---
 
-## Simple Summary
+## Summary
 
-The current governance ecosystem can be intimidating and passive due to the requirement of high domain knowledge. In order for the SWAG community to be more active and engaged, a good practice we will adopt is to host regular voting sessions called SQUIRTS. By participating in a SQUIRT, governance members will be rewarded for their participation and their efforts. The first proposal will be around the duration and frequency of SQUIRTS.
+To encourage the SWAG community to be more active and engaged, the DAO will host regular voting sessions called SQUIRTS. Governance members participating in a SQUIRT, will be compensated for their time and effort, to research, discuss, debate and vote. The first proposal will be deciding the duration and frequency of SQUIRTS. A strong show of participation will also send the right public signals — SWAG is an active and sustainable community.
 
 ## Abstract
 Come to a consensus on the frequency of SQUIRT governance sessions.
 
 ## Motivation
 We hope to increase interaction with our community and the community members’ participation in the DAO. As SWAG governance token holders participating in the SQUIRTS, you will be rewarded for your time and effort. A strong show of participation will also send the right public signals - SWAG is an active and sustainable community.
-It is therefore important to come to a consensus on how often SQUIRTS should be conducted. If they are held infrequently, governance members might lose interest. If they are held too frequently, there may be proposals which do not bring much value to the community and will also eventually result in loss of interest from governance token holders. 
+SQUIRTs are the core of the SWAG governance system. If they are held infrequently, governance members might lose interest. If they are held too frequently, there may be less than adequate time for discussion and debate, and it could be difficult to keep everyone engaged.
 
 
 **FOR**: Conduct SQUIRTS on a weekly basis
