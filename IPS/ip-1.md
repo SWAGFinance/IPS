@@ -1,6 +1,6 @@
 ---
 squirt: 1
-title: Frequency of squirt
+title: Frequency of squirts
 status: Proposed
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-1.html

@@ -1,6 +1,6 @@
 ---
 squirt: 1
-title: Frequency of squirt
+title: Frequency of squirts
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-1.html
 discussions: https://gov.swag.finance/t/proposal-ip-1-frequency-of-squirts/32
