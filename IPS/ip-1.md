@@ -1,7 +1,7 @@
 ---
 squirt: 1
 title: How often should SQUIRTs be conducted?
-status: Proposed
+status: Approved
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-1.html
 discussions: https://gov.swag.finance/t/proposal-ip-1-frequency-of-squirts/32
