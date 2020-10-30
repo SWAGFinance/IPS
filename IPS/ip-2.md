@@ -1,7 +1,7 @@
 ---
 squirt: 2
 title: How aggressively should we pursue CEX listings?
-status: Proposed
+status: Approved
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-2.html
 discussions: https://gov.swag.finance/t/proposal-ip-2-how-aggressively-should-we-pursue-cex-listings/43
