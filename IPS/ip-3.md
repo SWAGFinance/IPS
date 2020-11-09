@@ -1,7 +1,7 @@
 ---
 squirt: 3
 title: Premium or Freemium Model?
-status: Proposed
+status: Implemented
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-3.html
 discussions: https://gov.swag.finance/t/proposal-ip-3-freemium-or-premium-model/45
