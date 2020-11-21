@@ -1,7 +1,7 @@
 ---
 squirt: 6
 title: Should DAO utilize next week’s 250,000 USDC to buy back SWAG tokens from open market?
-status: Proposed
+status: Approved
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-6.html
 discussions: 

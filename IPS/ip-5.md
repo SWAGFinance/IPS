@@ -1,7 +1,7 @@
 ---
 squirt: 5
 title: Should SWAG.Live China provide free videos?
-status: Proposed
+status: Rejected
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-5.html
 discussions: 

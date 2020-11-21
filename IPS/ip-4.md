@@ -1,7 +1,7 @@
 ---
 squirt: 4
 title: Should SWAG develop the Chinese market?
-status: Proposed
+status: Approved
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-4.html
 discussions: 
