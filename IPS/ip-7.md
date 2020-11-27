@@ -1,7 +1,7 @@
 ---
 squirt: 7
 title: Release 3 tranches of tokens immediately to NGTH and CBM holders?
-status: Approved
+status: Implemented
 author: SWAG Finance team
 ip: https://ips.swag.finance/IPS/ip-7.html
 discussions: 
