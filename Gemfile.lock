@@ -269,6 +269,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux
 
 DEPENDENCIES
   github-pages
@@ -280,4 +281,4 @@ DEPENDENCIES
   yip_validator (>= 1.1.0)
 
 BUNDLED WITH
-   2.1.4
+   2.2.0
